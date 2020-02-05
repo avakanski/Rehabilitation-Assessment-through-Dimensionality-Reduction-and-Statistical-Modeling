@@ -12,15 +12,15 @@ For a detailed description of the files in the repository please see the List of
 # Citation
 If you use the codes or the methods in your work, please cite the following article:   
 
-   @ARTICLE{Williams2019,
-   title={Assessment of Physical Rehabilitation Movements Through Dimensionality Reduction and Statistical Modeling},
-   author={Williams, C. and Vakanski, A. and Lee, S. and Paul, D.},
-   journal={Medical Engineering and Physics}, 
-   year={2019},
-   month={Dec.},
-   volume={74},
-   pages={13-22},
-   }
+    @ARTICLE{Williams2019,
+    title={Assessment of Physical Rehabilitation Movements Through Dimensionality Reduction and Statistical Modeling},
+    author={Williams, C. and Vakanski, A. and Lee, S. and Paul, D.},
+    journal={Medical Engineering and Physics}, 
+    year={2019},
+    month={Dec.},
+    volume={74},
+    pages={13-22},
+    }
 
 # License
 MIT License
