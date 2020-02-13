@@ -15,7 +15,7 @@ For a detailed description of the files in the repository please see the List of
 * Run "GMM_Performance_Indicators" to generate quality scores for the individual movement repetitions.
 
 # Citation
-If you use the codes or the methods in your work, please cite the following article:   
+If you use the codes or the methods in your work, please cite the following <a href="https://www.sciencedirect.com/science/article/abs/pii/S1350453319302127?via%3Dihub">article</a>:   
 
     @ARTICLE{Williams2019,
     title={Assessment of Physical Rehabilitation Movements Through Dimensionality Reduction and Statistical Modeling},
