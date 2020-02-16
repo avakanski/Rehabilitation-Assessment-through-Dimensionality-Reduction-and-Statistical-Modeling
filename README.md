@@ -10,8 +10,8 @@ Modifying the codes for data collected with the Kinect sensor or other motion ca
 For a detailed description of the files in the repository please see the List of Files and Functions document.
 
 # Use
-* Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, since the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).
-* Run "Autoencoder_Movements" to reduce the dimensionality of the movement data. Alternatively, skip this step, since the outputs are saved in the Data folder (Autoencoder_output_correct.csv and Autoencoder_output_incorrect.csv).
+* Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).
+* Run "Autoencoder_Movements" to reduce the dimensionality of the movement data. Alternatively, skip this step, the outputs are saved in the Data folder (Autoencoder_output_correct.csv and Autoencoder_output_incorrect.csv).
 * Run "GMM_Performance_Indicators" to generate quality scores for the individual movement repetitions.
 
 # Citation
