@@ -9,6 +9,8 @@ Modifying the codes for data collected with the Kinect sensor or other motion ca
 
 For a detailed description of the files in the repository please see the List of Files and Functions document.
 
+A reproducible version of the codes is also published on Code Ocean and can be accessed via the following link: <a href="https://codeocean.com/capsule/7037240/tree/v1">https://codeocean.com/capsule/7037240/tree/v1</a>.
+
 # Use
 * Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).
 * Run "Autoencoder_Movements" to reduce the dimensionality of the movement data. Alternatively, skip this step, the outputs are saved in the Data folder (Autoencoder_output_correct.csv and Autoencoder_output_incorrect.csv).
